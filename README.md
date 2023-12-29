@@ -1,4 +1,4 @@
-# IremSevdenurDogan
+# iremsdogan
 # 💫 About Me:
 💻 Software engineering student in Sakarya University.<br><br>📫 How to reach me iremsdogann@gmail.com
 
